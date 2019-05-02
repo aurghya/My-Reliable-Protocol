@@ -1,0 +1,2 @@
+# My Reliable Protocol (MRP) #
+This library builds support for reliable communication over an unreliable link. It is a message-oriented, reliable, exactly-once delivery communication Layer (similar to a TCP without byte-orientation and in-order delivery).
